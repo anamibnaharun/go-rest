@@ -1,2 +1,2 @@
-# go-rest
+# go-notes
 go rest API practice
